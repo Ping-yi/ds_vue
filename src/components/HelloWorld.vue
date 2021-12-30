@@ -1,5 +1,7 @@
 <template>
   <div class="hello">
+    <van-button type="primary">主要按钮</van-button>
+    <button>主要按钮</button>
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
